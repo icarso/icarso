@@ -1,6 +1,6 @@
 ### Olá!!  Eu sou o Igor do Carmo 👋
 
-💻 Estou Análise e Desenvolvimento de Sistemas<br>
+💻 Estou cursando Análise e Desenvolvimento de Sistemas<br>
 🌱 Atualmente estudando CSS, JS, MySQL<br>
 
 <!--
