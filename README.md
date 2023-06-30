@@ -1,7 +1,7 @@
 ### Olá!!  Eu sou o Igor do Carmo 👋
 
 💻 Estou cursando Análise e Desenvolvimento de Sistemas<br>
-🌱 Atualmente estudando CSS, JS, MySQL<br>
+🌱 Atualmente estudando CSS, JS, MySQL e C#<br>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -22,15 +22,15 @@
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML 5 icon" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java icon"/>*
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C# icon"/>**
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C# icon"/>*
 </div>
   
 ##
   
 <div>  
   <p>
-    * POO<br>
-    ** Lógica de Programação
+    * básico<br>
+    
   </p>
 </div>
   
