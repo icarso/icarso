@@ -1,7 +1,7 @@
 ### Olá!!  Eu sou o Igor do Carmo 👋
 <br><br>
 💻 Estou cursando Análise e Desenvolvimento de Sistemas<br><br>
-🌱 Atualmente estudando C#, .Net e Azure<br><br>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -29,18 +29,17 @@
   &nbsp;&nbsp;&nbsp;
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL icon" title="MySQL"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C# icon" title="C#"/>
-  &nbsp;&nbsp;&nbsp;
-    <!--.Net colorido
-    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".Net icon" title=".Net"/>
-    &nbsp;&nbsp;&nbsp;-->
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" alt=".Net icon" title=".Net [aprendendo]"/>
-  &nbsp;&nbsp;&nbsp;
-    <!-- Azure colorido
-    <img height='50em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg' alt="Azure icon" title="Azure"/>
-    &nbsp;&nbsp;&nbsp;-->
-  <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" alt="Azure inative icon" title="Azure [aprendendo]"/>
-  &nbsp;&nbsp;&nbsp;
+  
+  <!--.Net colorido
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".Net icon" title=".Net"/>
+  &nbsp;&nbsp;&nbsp; -->
+  <!-- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" alt=".Net icon" title=".Net [aprendendo]"/>
+  &nbsp;&nbsp;&nbsp;-->
+  <!-- Azure colorido
+  <img height='50em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg' alt="Azure icon" title="Azure"/>
+  &nbsp;&nbsp;&nbsp;-->
+  <!--<img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" alt="Azure inative icon" title="Azure [aprendendo]"/>
+   &nbsp;&nbsp;&nbsp;-->
 </div>
 
 ##
@@ -49,7 +48,10 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java icon" title="Java"/>
   &nbsp;&nbsp;&nbsp;
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;  
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C# icon" title="C#"/>
   &nbsp;&nbsp;&nbsp;
+
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva icon" title="Canva"/>
   &nbsp;&nbsp;&nbsp;
 </div>
