@@ -44,16 +44,20 @@
 
 ##
 <div>  
-  <p>😄 Básico:<p>
+  <p>😄 Linguagens:<p>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java icon" title="Java"/>
   &nbsp;&nbsp;&nbsp;
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript"/>
   &nbsp;&nbsp;&nbsp;  
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt="C# icon" title="C#"/>
   &nbsp;&nbsp;&nbsp;
+</div>
 
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva icon" title="Canva"/>
-  &nbsp;&nbsp;&nbsp;
+##
+<div>
+  <p>⭐ Certificados: </p>
+  <p><b>Alura:</b> HTTP: Entendendo a Web por baixo dos panos.</p>
+  <p><b>Alura:</b> JS na Web: CRUD com JavaScript assíncrono.</p>
 </div>
 
 ##
