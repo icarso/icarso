@@ -1,7 +1,6 @@
 ### Olá!!  Eu sou o Igor do Carmo 👋
-<br><br>
+<br>
 💻 Estou cursando Análise e Desenvolvimento de Sistemas<br><br>
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div>
   <a href="https://github.com/icarso">
   <img height='160em' src='https://github-readme-stats.vercel.app/api?username=icarso&count_private=true&theme=tokyonight'/> &nbsp;
@@ -44,8 +42,10 @@
 
 ##
 <div>  
-  <p>😄 Linguagens:<p>
+  <p>😄 Linguagens e Frameworks:<p>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java icon" title="Java"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring icon" title="Spring"/>*
   &nbsp;&nbsp;&nbsp;
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript"/>
   &nbsp;&nbsp;&nbsp;  
@@ -58,6 +58,7 @@
   <p>⭐ Certificados: </p>
   <p><b>Alura:</b> HTTP: Entendendo a Web por baixo dos panos.</p>
   <p><b>Alura:</b> JS na Web: CRUD com JavaScript assíncrono.</p>
+  <p><b>*Alura:</b> Spring Boot 3: Desenvolva uma API REST em Java.</p>
 </div>
 
 ##
